@@ -137,7 +137,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/ssi-mz-studygroup/my-sample-app</url>
+			<url>https://maven.pkg.github.com/hkatou5/my-sample-app</url>
 		</repository>
 	</distributionManagement>
 </project>
