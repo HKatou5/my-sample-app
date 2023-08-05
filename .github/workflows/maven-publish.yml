@@ -25,9 +25,9 @@ jobs:
       packages: write
 
     steps:
-    - uses: actions/checkout@v３
+    - uses: actions/checkout@v2
     - name: Set up JDK 17
-      uses: actions/setup-java@v3
+      uses: actions/setup-java@v2
       with:
         java-version: '17'
         distribution: 'temurin'
