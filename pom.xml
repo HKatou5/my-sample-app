@@ -142,7 +142,7 @@
 					<registry>ghcr.io</registry>
 					<images>
 						<image>
-							<name>ssi-mz-studygroup/hello-app</name>
+							<name>hkatou5/hello-app</name>
 							<build>
 								<tags>
 									<tag>${image.tag}</tag>
